@@ -1,0 +1,39 @@
+# ── AI Meeting Assistant ─────────────────────────────────────────────
+# Python >= 3.11
+
+# ── Audio / Video ────────────────────────────────────────────────────
+yt-dlp>=2024.4.9
+pydub>=0.25.1
+ffmpeg-python>=0.2.0
+
+# ── Speech-to-Text & Vision ──────────────────────────────────────────
+openai-whisper>=20231117
+torch>=2.2.0
+torchaudio>=2.2.0
+torchvision>=0.17.0
+numba>=0.57.0
+llvmlite>=0.40.0
+
+# ── LangChain + Mistral ──────────────────────────────────────────────
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-mistralai>=0.2.0
+mistralai>=1.0.0
+
+# ── RAG & Embeddings ─────────────────────────────────────────────────
+chromadb>=0.5.5
+langchain-chroma>=0.1.0
+sentence-transformers>=3.0.1
+transformers>=4.38.0
+tiktoken>=0.8.0
+
+# ── Streamlit ────────────────────────────────────────────────────────
+streamlit>=1.40.0
+streamlit-extras>=0.5.0
+
+# ── Utilities ────────────────────────────────────────────────────────
+python-dotenv>=1.0.1
+numpy>=1.26.4
+requests>=2.32.3
+tqdm>=4.67.1
