@@ -392,7 +392,6 @@ B.Tech CSE Student
 
 Passionate about AI, Generative AI, Full Stack Development, and Machine Learning.
 
-GitHub: https://github.com/udaydhaila1926
 
 
 ---
