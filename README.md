@@ -386,7 +386,7 @@ git push origin feature-name
 
 # 👨‍💻 Author
 
-**Uday Singh**
+**KUNAK MATHIYAN**
 
 B.Tech CSE Student
 
